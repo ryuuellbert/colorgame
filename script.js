@@ -9,9 +9,9 @@ let tombol = document.getElementById('tombol')
         let container = document.querySelector('.all')
     container.addEventListener('click', function(e) {
          if (e.target.className == 'container empat') {
-            alert('Papa jelek Pilih Warna Yang Benar')
+            alert('Charist jelek Pilih Warna Yang Benar')
         } else {
-            alert('Papa jelek Pilih Warna Yang Salah')
+            alert('Charist jelek Pilih Warna Yang Salah')
         }
     });
     }
@@ -21,9 +21,9 @@ let tombol = document.getElementById('tombol')
         let container = document.querySelector('.all')
     container.addEventListener('click', function(e) {
          if (e.target.className == 'container tiga') {
-            alert('Papa jelek Pilih Warna Yang Benar')
+            alert('Charist jelek Pilih Warna Yang Benar')
         } else {
-            alert('Papa jelek Pilih Warna Yang Salah')
+            alert('Charist jelek Pilih Warna Yang Salah')
         }
     });
     }
@@ -33,9 +33,9 @@ let tombol = document.getElementById('tombol')
         let container = document.querySelector('.all')
     container.addEventListener('click', function(e) {
          if (e.target.className == 'container enam') {
-            alert('Papa jelek Pilih Warna Yang Benar')
+            alert('Charist jelek Pilih Warna Yang Benar')
         } else {
-            alert('Papa jelek Pilih Warna Yang Salah')
+            alert('Charist jelek Pilih Warna Yang Salah')
         }
     });
     }
@@ -45,9 +45,9 @@ let tombol = document.getElementById('tombol')
         let container = document.querySelector('.all')
     container.addEventListener('click', function(e) {
          if (e.target.className == 'container lima') {
-            alert('Papa jelek Pilih Warna Yang Benar')
+            alert('Charist jelek Pilih Warna Yang Benar')
          } else {
-            alert('Papa jelek Pilih Warna Yang Salah')
+            alert('Charist jelek Pilih Warna Yang Salah')
         }
     });
     }
@@ -57,9 +57,9 @@ let tombol = document.getElementById('tombol')
         let container = document.querySelector('.all')
     container.addEventListener('click', function(e) {
         if(e.target.className == 'container satu') {
-            alert('Papa jelek Pilih Warna Yang Benar')
+            alert('Charist jelek Pilih Warna Yang Benar')
          } else {
-            alert('Papa jelek Pilih Warna Yang Salah')
+            alert('Charist jelek Pilih Warna Yang Salah')
         }
     });
     }
@@ -69,11 +69,11 @@ let tombol = document.getElementById('tombol')
         let container = document.querySelector('.all')
     container.addEventListener('click', function(e) {
         if(e.target.className == 'container satu') {
-            alert('Papa jelek Pilih Warna Yang Salah')
+            alert('Charist jelek Pilih Warna Yang Salah')
         } else if (e.target.className == 'container dua') {
-            alert('Papa jelek Pilih Warna Yang Benar')
+            alert('Charist jelek Pilih Warna Yang Benar')
         } else {
-            alert('Papa jelek Pilih Warna Yang Salah')
+            alert('Charist jelek Pilih Warna Yang Salah')
         }
     });
     }
